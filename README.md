@@ -9,6 +9,7 @@ Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa 
 ## My Github Performance
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=faizul14&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faizul14&count_private=true)
 
 ## My values
 
