@@ -23,7 +23,7 @@ Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa 
 ## Current activity
 
 - 💻 I'm currently part-time at <a href="">##</a> and some freelance projects.
-- 📖 I’m currently learning Flutter and Deep Learning;
+- 📖 I’m currently learning Kotlin and machine learning;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at <a href="https://universitasbumigora.ac.id">Bumigora University</a>;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via faezolpadli@gmail.com to reach me.
