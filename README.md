@@ -1,5 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-faezolpadli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:faezolpadli@gmail.com)](mailto:faezolpadli@gmail.com) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://faizul14.github.io/faezolportfolio/)](https://faizul14.github.io//) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://faizul14.github.io/faezolportfolio/)](https://faizul14.github.io/faezolportfolio/) 
 Must can do it
 
 # FAEZOL MP
