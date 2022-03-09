@@ -4,7 +4,7 @@
 
 # FAEZOL MP
 
-Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa Tenggara, Indonesia and am an Malay native. 🙌 I'm a Android Developer with Java, and Kotlin. Manage projects with git and understanding to publish projects on Playstore, love snorkling and tech enthusiast. 💕
+Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa Tenggara, Indonesia and am an Malay native. 🙌 I'm a Android Developer with Java, and Kotlin. Manage projects with git and understanding to publish projects on Playstore.
 
 ## My Github Performance
 
