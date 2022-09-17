@@ -8,14 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Update GitHub Profile README
-      uses: github-update-readme@main
+      uses: theboi/github-update-readme@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         header: "Hey, I'm Test! 👋"
         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
-        ref: "main"
-#         excludeActivity: '["WatchEvent"]'
-#         excludeRepo: '["theboi/theboi"]'
-#         SHOW_LANGUAGE: "True"
+#         ref: "main"
+# #         excludeActivity: '["WatchEvent"]'
+# #         excludeRepo: '["theboi/theboi"]'
+# #         SHOW_LANGUAGE: "True"
