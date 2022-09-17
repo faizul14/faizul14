@@ -17,3 +17,8 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 ---
 
 **Copyright**
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
