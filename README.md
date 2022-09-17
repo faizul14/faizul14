@@ -1,45 +1,19 @@
-<!-- [![Gmail Badge](https://img.shields.io/badge/-faezolpadli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:faezolpadli@gmail.com)](mailto:faezolpadli@gmail.com) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://faizul14.github.io)](https://faizul14.github.io) 
-<br>Must can do it
+## Hey, I'm Test! 👋
 
-# FAEZOL MP
+Currently a student in Singapore, passionate about creating all-things-tech to improve society.
 
-Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa Tenggara, Indonesia and am an Malay native. 🙌 I'm a Android Developer with Java, and Kotlin. Manage projects with git and understanding to publish projects on Playstore.
+---
 
-## My Github Performance
+| [faizul14/faizul14](https://github.com/faizul14/faizul14) | [faizul14/metrics](https://github.com/faizul14/metrics) | [faizul14/QRKU](https://github.com/faizul14/QRKU) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/faizul14/faizul14"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/faizul14" title="faizul14/faizul14" width="200" height="200"></a> | <a href="https://github.com/faizul14/metrics"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/metrics" title="faizul14/metrics" width="200" height="200"></a> | <a href="https://github.com/faizul14/QRKU"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/QRKU" title="faizul14/QRKU" width="200" height="200"></a> |
 
-![github stats](https://github-readme-stats.vercel.app/api?username=faizul14&show_icons=true)
-## Aliran :)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=faizul14&count_private=true)
-
-## My values
-
-💖 Safety and trust<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
-🚀 Elevate the underrepresented
+| [faizul14/WICARA](https://github.com/faizul14/WICARA) | [faizul14/android-developer-roadmap](https://github.com/faizul14/android-developer-roadmap) | [faizul14/Preparation-Simulasi-AAD](https://github.com/faizul14/Preparation-Simulasi-AAD) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/faizul14/WICARA"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/WICARA" title="faizul14/WICARA" width="200" height="200"></a> | <a href="https://github.com/faizul14/android-developer-roadmap"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/android-developer-roadmap" title="faizul14/android-developer-roadmap" width="200" height="200"></a> | <a href="https://github.com/faizul14/Preparation-Simulasi-AAD"><img src="https://github.com/faizul14/faizul14/raw/main/DISPLAY.jpg" alt="faizul14/Preparation-Simulasi-AAD" title="faizul14/Preparation-Simulasi-AAD" width="200" height="200"></a> |
 
 
-## Current activity
 
-- 💻 I'm currently part-time at <a href="">##</a> and some freelance projects.
-- 📖 I’m currently learning Kotlin and machine learning;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science at <a href="https://universitasbumigora.ac.id">Bumigora University</a>;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via faezolpadli@gmail.com to reach me.
-- 📝 See my <a href=->linked.in</a> to get more info.
+---
 
-## Get in touch
-
-- Personal site: https://faizul14.github.io/faezolportfolio/
-- Instagram : - -->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%203%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
- Last Updated on 16/09/2022 22:13:37 UTC
-<!--END_SECTION:waka-->
-
+**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**
