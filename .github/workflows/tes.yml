@@ -12,9 +12,9 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        header: "Hey, I'm Test! 👋"
-        subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
-        footer: "**Copyright**"
+        header: "Hi, I'm Faezol Padli! 👋"
+#         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
+#         footer: "**Copyright**"
 #         ref: "main"
 # #         excludeActivity: '["WatchEvent"]'
 # #         excludeRepo: '["theboi/theboi"]'
