@@ -10,7 +10,7 @@ jobs:
     - name: Update GitHub Profile README
       uses: theboi/github-update-readme@main
       env:
-        GITHUB_TOKEN: ${{ secrets.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 }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         header: "Hey, I'm Test! 👋"
         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
