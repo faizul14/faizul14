@@ -40,5 +40,6 @@ Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa 
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
+ Last Updated on 16/09/2022 22:13:37 UTC
 <!--END_SECTION:waka-->
 
