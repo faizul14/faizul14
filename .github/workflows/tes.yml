@@ -12,7 +12,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        header: "Hi, I'm Faezol Padli! 👋"
+#         header: "Hi, I'm Faezol Padli! 👋"
         subhead: <h1 align="center">Hi 👋, I'm M. Faezol padli</h1>
             <h3 align="center">A passionate Andoid developer from Indonesia</h3>
 
