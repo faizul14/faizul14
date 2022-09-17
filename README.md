@@ -1,6 +1,6 @@
-## Hey, I'm Test! 👋
+## Hi, I'm Faezol Padli! 👋
 
-Currently a student in Singapore, passionate about creating all-things-tech to improve society.
+
 
 ---
 
@@ -16,4 +16,3 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 ---
 
-**Copyright**
