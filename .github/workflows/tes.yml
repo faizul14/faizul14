@@ -1,6 +1,6 @@
 name: Update GitHub Profile README
 on:
-  push:
+  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *" 
 jobs:
@@ -16,6 +16,6 @@ jobs:
         subhead: "Currently a student in Singapore, passionate about creating all-things-tech to improve society."
         footer: "**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**"
         ref: "main"
-        excludeActivity: '["WatchEvent"]'
-        excludeRepo: '["theboi/theboi"]'
-        SHOW_LANGUAGE: "True"
+#         excludeActivity: '["WatchEvent"]'
+#         excludeRepo: '["theboi/theboi"]'
+#         SHOW_LANGUAGE: "True"
