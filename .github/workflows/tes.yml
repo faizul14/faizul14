@@ -18,3 +18,4 @@ jobs:
         ref: "main"
         excludeActivity: '["WatchEvent"]'
         excludeRepo: '["theboi/theboi"]'
+        SHOW_LANGUAGE: "True"
