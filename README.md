@@ -34,3 +34,7 @@ Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa 
 
 - Personal site: https://faizul14.github.io/faezolportfolio/
 - Instagram : -
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%203%20mins-blue)
+
+
