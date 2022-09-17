@@ -1,4 +1,4 @@
-[![Gmail Badge](https://img.shields.io/badge/-faezolpadli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:faezolpadli@gmail.com)](mailto:faezolpadli@gmail.com) 
+<!-- [![Gmail Badge](https://img.shields.io/badge/-faezolpadli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:faezolpadli@gmail.com)](mailto:faezolpadli@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://faizul14.github.io)](https://faizul14.github.io) 
 <br>Must can do it
 
@@ -33,7 +33,7 @@ Hi, I'm M Faezol Padli 👨 (he/him)—a freelance at Home. I live in West Nusa 
 ## Get in touch
 
 - Personal site: https://faizul14.github.io/faezolportfolio/
-- Instagram : -
+- Instagram : - -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C441%20hrs%203%20mins-blue)
