@@ -2,9 +2,9 @@ name: Update GitHub Profile README
 on:
   workflow_dispatch:
   schedule:
-#     - cron: "*/5 * * * *"
-    # Runs at 22.00 pm UTC or 06.00  UTC+8 
-    - cron: '0 22 * * *'
+    - cron: "*/5 * * * *"
+#     # Runs at 22.00 pm UTC or 06.00  UTC+8 
+#     - cron: '0 22 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
