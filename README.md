@@ -19,13 +19,19 @@
 ### Glad to see you here! <img src="https://github.com/faizul14/faizul14/blob/main/aset/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ericktijerou.ericktijerou&style=flat-square&color=0088cc)
 
 - 🛠 I’m currently working with libraries and tools like: Android X, Android Architecture Components, MotionLayout, Coroutines, Paging, Android KTX, and another common libraries 💻.
-- 🚀 I’m currently learning data science in Python & fullstack dev in Javascript.
+- 🚀 I have reached proficiency in Data Science with Python and Fullstack Development (Backend & Frontend) with JavaScript and Go.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/faizul14).
 - 👾 Fun fact: I love futsal.
 - 📫 How to reach me: faezolpadli@gmail.com
 - 📝 Checkout my [Resume]().
 
 #
+
+### Road to Agnostic Developer
+- 💻 Sedang berkultivasi to be an Agnostic-Developer: able to work with any programming language.
+
+#
+
 
 <div align="center">
 
